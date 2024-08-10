@@ -1,0 +1,30 @@
+{
+    "tiposDePrestamos": [
+      {
+        "tipo": "Personal",
+        "tasaInteres": 5.0,
+        "plazoMaximoMeses": 60
+      },
+      {
+        "tipo": "Hipotecario",
+        "tasaInteres": 3.5,
+        "plazoMaximoMeses": 240
+      },
+      {
+        "tipo": "Automotriz",
+        "tasaInteres": 4.5,
+        "plazoMaximoMeses": 72
+      },
+      {
+        "tipo": "Estudiantil",
+        "tasaInteres": 4.0,
+        "plazoMaximoMeses": 120
+      },
+      {
+        "tipo": "Empresarial",
+        "tasaInteres": 6.0,
+        "plazoMaximoMeses": 84
+      }
+    ]
+  }
+  
